@@ -1,0 +1,5 @@
+bin\Debug\SerizalClass.dll
+bin\Debug\SerizalClass.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\SerizalClass.dll
+obj\Debug\SerizalClass.pdb

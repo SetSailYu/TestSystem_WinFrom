@@ -1,0 +1,5 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\WebExamClient\SerizalClass\bin\Debug\SerizalClass.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\WebExamClient\SerizalClass\bin\Debug\SerizalClass.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\WebExamClient\SerizalClass\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\WebExamClient\SerizalClass\obj\Debug\SerizalClass.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\WebExamClient\SerizalClass\obj\Debug\SerizalClass.pdb
